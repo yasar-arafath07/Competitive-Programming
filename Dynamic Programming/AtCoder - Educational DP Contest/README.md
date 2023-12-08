@@ -1,1 +1,1 @@
-Link to the Problems: https://atcoder.jp/contests/dp/tasks
+Link to the Contest: https://atcoder.jp/contests/dp/tasks
