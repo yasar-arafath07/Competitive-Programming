@@ -12,7 +12,7 @@ Hello, ${1:this} is a ${2:snippet}.
     <!-- <scope>source.python</scope> -->
 </snippet>
 
-- Now, to modify the content inside the block, replace 3rd line by the snippet code you want to use. 
+- Now, to modify the content inside the block, replace 3rd line by the snippet code you want to use. i.e, replace "Hello, ${1:this} is a ${2:snippet}." with the code of your choice.
 - Enable the tab trigger by entering a keyword of your choice to invoke the snippet. 
 - Set the scope to 'source.c++' then save the file with '.sublime-snippet' extension.
   eg: template.sublime-snippet
