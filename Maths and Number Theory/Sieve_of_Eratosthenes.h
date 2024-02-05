@@ -20,7 +20,7 @@ const int MAXN = 1e6 + 10; // '9 * 10^7' maximum
 vector<bool> isPrime(MAXN + 10, true);  
 
 void Sieve(){
-	isPrime[0] = isPrime[1] = false;
+    isPrime[0] = isPrime[1] = false;
 
     for(int i=2; i*i<=MAXN; i++){
         if(isPrime[i]){
