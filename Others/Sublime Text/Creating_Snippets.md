@@ -1,7 +1,7 @@
 # How to Create Snippets in Sublime Text
 
-- Open Sublime Text -> Tools -> Developer -> New Snippet (the below code will show up)
-"  
+- Open Sublime Text -> Tools -> Developer -> New Snippet (the below code will show up. Click on 'Code' tab to view it)
+
 <snippet>
     <content><![CDATA[
 Hello, ${1:this} is a ${2:snippet}.
@@ -11,7 +11,7 @@ Hello, ${1:this} is a ${2:snippet}.
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <!-- <scope>source.python</scope> -->
 </snippet>
-"
+
 
 - Now, to modify the content inside the block, replace 3rd line by the snippet code you want to use. i.e, replace "Hello, ${1:this} is a ${2:snippet}." with the code of your choice.
 - Enable the tab trigger by entering a keyword of your choice to invoke the snippet. 
