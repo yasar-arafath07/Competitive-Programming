@@ -13,12 +13,13 @@ Hello, ${1:this} is a ${2:snippet}.
 </snippet>
 
 
-- Now, to modify the content inside the block, replace 3rd line by the snippet code you want to use. i.e, replace "Hello, ${1:this} is a ${2:snippet}." with the code of your choice.
+- Now, to modify the content inside the block, replace 3rd line by the snippet code you want to use. i.e, replace "Hello, ${1:this} is a ${2:snippet}." with the code of your choice. (Refer to the below attached image)
 - Enable the tab trigger by removing the comment and entering a keyword of your choice to invoke the snippet. 
 - Set the scope to 'source.c++' then save the file with '.sublime-snippet' extension.
   eg: template.sublime-snippet
 
-![image](https://github.com/yasar-arafath07/Competitive-Programming/assets/97467833/653ceb95-c903-4d1b-9e19-b7f1686731a3)
+![image](https://github.com/yasar-arafath07/Competitive-Programming/assets/97467833/6e88a257-8363-440e-8f12-af80c01dd182)
+
 
   
 
